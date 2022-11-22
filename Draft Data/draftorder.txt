@@ -1,0 +1,213 @@
+Christian McCaffrey,RB;92.15|
+Ezekiel Elliott,RB;88.93|
+Dalvin Cook,RB;88.21|
+Derrick Henry,RB;88.01|
+Michael Thomas,WR;87.92|
+Saquon Barkley,RB;84.48|
+Austin Ekeler,RB;84.03|
+Josh Jacobs,RB;83.25|
+Julio Jones,WR;82.89|
+DeAndre Hopkins,WR;82.54|
+Aaron Jones,RB;82.50|
+Amari Cooper,WR;80.43|
+Davante Adams,WR;80.11|
+Lamar Jackson,QB;79.09|
+Alvin Kamara,RB;78.67|
+Robert Woods,WR;78.12|
+Joe Mixon,RB;76.34|
+Kenyan Drake,RB;76.18|
+Tyreek Hill,WR;76.02|
+Courtland Sutton,WR;74.88|
+George Kittle,TE;74.23|
+Miles Sanders,RB;73.56|
+Todd Gurley,RB;71.93|
+Darren Waller,TE;71.34|
+Kyler Murray,QB;70.45|
+Odell Beckham Jr.,WR;70.04|
+Nick Chubb,RB;69.69|
+Mike Evans,WR;69.43|
+Travis Kelce,TE;68.39|
+Chris Carson,RB;68.22|
+James Conner,RB;66.90|
+Patrick Mahomes,QB;66.37|
+JuJu Smith-Schuster,WR;65.38|
+Le'Veon Bell,RB;64.82|
+A.J. Brown,WR;63.46|
+DeVante Parker,WR;61.71|
+Leonard Fournette,RB;61.12|
+Desean Watson,QB;60.73|
+Devin Singletary,RB;60.46|
+Russel Wilson,QB;57.39|
+Mark Ingram II,RB;56.05|
+Clyde Edwards-Helaire,RB;52.87|
+Allen Robinson,WR;53.83|
+Adam Thielen,WR;53.32|
+Mecole Hardman,WR;52.77|
+Mark Andrews,TE;52.64|
+Drew Brees,QB;52.14|
+Dak Prescott,QB;52.10|
+Kenny Golladay,WR;51.99|
+Hayden Hurst,TE;51.58|
+Raheem Mostert,RB;51.29|
+Zach Ertz,TE;50.84|
+Melvin Gordon,RB;50.61|
+D.J. Moore,WR;50.24|
+Calvin Ridley,WR;49.75|
+Hunter Henry,TE;48.60|
+Chris Godwin,WR;48.45|
+Tyler Lockett,WR;48.18|
+Cam Newton,QB;48.13|
+Evan Engram,TE;48.08|
+D.J. Chark,WR;46.28|
+A.J. Green,WR;45.93|
+Jared Cook,TE;45.66|
+Josh Allen,QB;45.52|
+Terry Mclaurin,WR;45.51|
+Cooper Kupp,WR;44.47|
+Chris Herndon IV,TE;44.26|
+David Johnson,RB;43.72|
+D.K. Metcalf,WR;43.20|
+T.Y. Hilton,WR;42.95|
+Matt Ryan,QB;42.83|
+Noah Fant,TE;42.68|
+Ryan Tannehill,QB;41.84|
+CeeDee Lamb,WR;40.09|
+Jonnu Smith,TE;38.26|
+Brandon Cooks,WR;37.61|
+John Brown,WR;37.47|
+Aaron Rodgers,QB;37.13|
+Rob Gronkowski,TE;36.82|
+Cam Akers,RB;36.61|
+Tom Brady,QB;36.05|
+Matthew Stafford,QB;35.57|
+Marvin Jones,WR;35.54|
+Keenan Allen,WR;35.38|
+Blake Jarwin,TE;35.20|
+D'Andre Swift,RB;35.06|
+Carson Wentz,QB;34.42|
+Jarvis Landry,WR;34.36|
+David Montgomery,RB;34.35|
+Jonathan Taylor,RB;34.28|
+Mike Gesicky,TE;34.24|
+Ben Roethlisberger,QB;34.04|
+Eric Enron,TE;33.65|
+Jack Doyle,TE;33.63|
+Stefon Diggs,WR;33.42|
+Marquise Brown,WR;33.18|
+Julian Edelman,WR;32.81|
+James White,RB;32.76|
+Baker Mayfield,QB;32.73|
+J.K. Dobbins,RB;32.65|
+Justin Tucker,K;32.44|
+Derrius Guice,RB;32.24|
+Henry Ruggs III,WR;31.89|
+Jared Goff,QB;31.80|
+Jordan Howard,RB;31.77|
+Ronald Jones II,RB;31.56|
+Harrison Butker,K;31.23|
+Michael Gallup,WR;31.20|
+Mike Williams,WR;30.05|
+Jamison Crowder,WR;30.01|
+Drew Lock,QB;29.57|
+Kareem Hunt,RB;29.44|
+Diontae Johnson,WR;29.39|
+Emmanuel Sanders,WR;29.24|
+Ke'Shawn Vaughn,RB;29.21|
+Sony Michel,RB;29.20|
+Marlon Mack,RB;28.83|
+Christian Kirk,WR;27.75|
+Tyler Boyd,WR;27.02|
+Will Fuller,WR;25.71|
+Tevin Coleman,RB;25.71|
+Robbie Gould,K;25.70|
+Zack Moss,RB;25.68|
+Darius Slayton,WR;25.62|
+Jerry Jeudy,WR;25.50|
+Chase Edmonds,RB;25.43|
+Philip Rivers,QB;25.43|
+San Francisco,DEF;25.37|
+Duke Johnson,RB;25.35|
+Adrian Peterson,RB;25.20|
+Matt Gay,K;25.16|
+Carlos Hyde,RB;25.11|
+New England,DEF;25.09|
+Dawson Knox,TE;25.09|
+Alexander Mattison,RB;25.07|
+Greg Zuerlein,K;25.06|
+Philip Lindsay,RB;25.06|
+Justin Jefferson,WR;25.04|
+Buffalo,DEF;24.98|
+Zane Gonzalez,K;24.94|
+Paris Campbell,WR;24.92|
+Joe Burrow,QB;24.75|
+Baltimore,DEF;24.71|
+Latavius Murray,RB;24.68|
+Sterling Shepard,WR;24.53|
+Ka'imi Fairbairn,K;24.46|
+Wil Lutz,K;24.39|
+Chicago,DEF;24.34|
+T.J. Hockenson,TE;24.33|
+Jalen Reagor,WR;24.28|
+Anthony Miller,WR;24.19|
+New Orleans,DEF;24.12|
+Matt Prater,K;24.10|
+Los Angeles Rams,DEF;24.04|
+Darrell Henderson,RB;23.86|
+Dan Bailey,K;23.81|
+Tony Pollard,RB;23.58|
+Pittsburgh,DEF;23.29|
+Boston Scott,RB;23.22|
+Ian Thomas,TE;22.10|
+Kirk Cousins,QB;21.97|
+DeSean Jackson,WR;21.96|
+Brandon McManus,K;21.93|
+Jason Myers,K;21.82|
+Kansas City,DEF;21.73|
+Mason Crosby,K;21.66|
+Robby Anderson,WR;21.58|
+Kenny Stills,WR;21.43|
+A.J. Dillon,RB;21.41|
+Justin Jackson,RB;21.12|
+Greg Olsen,TE;21.07|
+Preston Williams,WR;20.88|
+Dede Westbrook,WR;20.75|
+Antonio Gibson,RB;20.66|
+Dwayne Haskins,QB;20.53|
+Kyle Rudolph,TE;20.24|
+Kerry Johnson,RB;20.22|
+Nyheim Hines,RB;20.09|
+Younghoe Koo,K;20.07|
+Minnesota,DEF;20.04|
+Corey Davis,WR;19.83|
+Ryguell Armstead,RB;19.67|
+Tyrod Taylor,QB;19.28|
+Jake Elliot,K;19.18|
+Chris Boswell,K;19.16|
+Denver,DEF;19.13|
+Brandon Aiyuk,WR;19.11|
+Michael Badgley,K;18.99|
+Tennessee,DEF;18.95|
+Sammy Watkins,WR;18.87|
+Tampa Bay,DEF;18.84|
+Rashaad Penny,RB;18.83|
+Jalen Richard,RB;18.83|
+Joey Slye,K;18.76|
+Justin Rohrwasser,K;18.72|
+Chase McLaughlin,K;18.70|
+Seattle,DEF;18.68|
+Philadelphia,DEF;18.63|
+Allen Lazard,WR;18.60|
+Brett Maher,K;18.59|
+Dallas,DEF;18.57|
+Indianapolis,DEF;18.56|
+Austin Seibert,K;18.56|
+None,NONE;0.00|
+None,NONE;0.00|
+None,NONE;0.00|
+None,NONE;0.00|
+None,NONE;0.00|
+None,NONE;0.00|
+None,NONE;0.00|
+
+
+
